@@ -1,0 +1,6 @@
+C.E. Electronics, Inc. Elite IV
+M:	Dan Riegsecker <dan@ceelectronics.com>
+S:	Maintained
+F:	board/ceelectronics/eliteiv/
+F:	include/configs/eliteiv.h
+F:	configs/eliteiv_defconfig
