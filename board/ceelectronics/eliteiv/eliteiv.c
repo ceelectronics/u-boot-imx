@@ -1,8 +1,7 @@
 /*
- * Copyright (C) 2012-2016 Freescale Semiconductor, Inc.
- * Copyright 2017 NXP
+ * Copyright (C) 2018 C.E. Electronics, Inc.
  *
- * Author: Fabio Estevam <fabio.estevam@freescale.com>
+ * Author: Dan Riegsecker <dan@ceelectronics.com>
  *
  * SPDX-License-Identifier:	GPL-2.0+
  */
@@ -1366,7 +1365,7 @@ int board_late_init(void)
 
 int checkboard(void)
 {
-	puts("Board: MX6-SabreSD\n");
+	puts("Board: Elite IV\n");
 	return 0;
 }
 
